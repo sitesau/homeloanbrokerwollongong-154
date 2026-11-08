@@ -1,0 +1,22 @@
+{
+  "wheel_id": 863,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-154",
+  "project": "mortgage-broker-wollongong-eligibility-c77be2c3e52f1257844c2817",
+  "parent_t1_ref": "homeloanbrokerwollongong-014",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "mortgage broker wollongong eligibility",
+  "intended_url": "https://sitesau.github.io/homeloanbrokerwollongong-154/",
+  "tier": "T2",
+  "writeback_nonce": "38b67e7d43462754",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/mortgage-broker-wollongong/",
+      "anchor": "Mortgage Broker Wollongong: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
